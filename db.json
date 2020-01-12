@@ -47,6 +47,14 @@
       "QuotationDate": "01-06-2019",
       "Status": "Pursue / R & D",
       "View": "Edit"
+    },
+    {
+      "id": 7,
+      "QuotationNumber": "iTAR-EnSci-07",
+      "TechnologyTitle": "Home Computing",
+      "QuotationDate": "21-09-2019",
+      "Status": "Pursue / R & D",
+      "View": "Edit"
     }
   ],
   "profile": {
