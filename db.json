@@ -2,42 +2,42 @@
   "tarList": [
     {
       "id": 1,
-      "iTarNumber": 'iTAR-EnSci-01',
+      "iTarNumber": "iTAR-EnSci-01",
       "technologyTitle": "Cloud Computing",
       "createdOn": "05-08-2019",
       "status": "Draft"
     },
     {
       "id": 2,
-      "iTarNumber": 'iTAR-EnSci-03',
+      "iTarNumber": "iTAR-EnSci-03",
       "technologyTitle": "Industrial Internet of Things(IIOT)",
       "createdOn": "25-07-2019",
       "status": "Monitor / Scout"
     },
     {
       "id": 3,
-      "iTarNumber": 'iTAR-EnSci-02',
+      "iTarNumber": "iTAR-EnSci-02",
       "technologyTitle": "Mobile and Edge Computing",
       "createdOn": "15-11-2019",
       "status": "Ignore"
     },
     {
       "id": 4,
-      "iTarNumber": 'iTAR-EnSci-05',
+      "iTarNumber": "iTAR-EnSci-05",
       "technologyTitle": "Data Science. As the world entered the era of big data, the need for its storage also grew",
       "createdOn": "04-12-2019",
       "status": "Under Review"
     },
     {
       "id": 5,
-      "iTarNumber": 'iTAR-EnSci-04',
+      "iTarNumber": "iTAR-EnSci-04",
       "technologyTitle": "Robotics",
       "createdOn": "05-01-2020",
       "status": "Acquire"
     },
     {
       "id": 6,
-      "iTarNumber": 'iTAR-EnSci-06',
+      "iTarNumber": "iTAR-EnSci-06",
       "technologyTitle": "Surface Computing",
       "createdOn": "01-06-2019",
       "status": "Pursue / R & D"
