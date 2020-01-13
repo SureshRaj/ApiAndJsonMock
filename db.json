@@ -57,8 +57,16 @@
       "View": "Edit"
     },
     {
-      "id": 7,
+      "id": 8,
       "QuotationNumber": "iTAR-EnSci-08",
+      "TechnologyTitle": "Home8 Computing",
+      "QuotationDate": "02-09-2017",
+      "Status": "Pursue / R & D",
+      "View": "Edit"
+    },
+    {
+      "id": 9,
+      "QuotationNumber": "iTAR-EnSci-09",
       "TechnologyTitle": "Home8 Computing",
       "QuotationDate": "02-09-2017",
       "Status": "Pursue / R & D",
