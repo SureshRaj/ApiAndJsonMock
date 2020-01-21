@@ -2,75 +2,59 @@
   "tarList": [
     {
       "id": 1,
-      "QuotationNumber": "iTAR-EnSci-01",
-      "TechnologyTitle": "Cloud Computing",
-      "QuotationDate": "05-08-2019",
-      "Status": "Draft",
-      "View": "Edit"
+      "itarNumber": "iTAR-EnSci-01",
+      "technologyTitle": "Cloud Computing",
+      "submittedOn": "05-08-2019",
+      "assessmentStatus": "2"
     },
     {
       "id": 2,
-      "QuotationNumber": "iTAR-EnSci-03",
-      "TechnologyTitle": "Industrial Internet of Things(IIOT)",
-      "QuotationDate": "25-07-2019",
-      "Status": "Monitor / Scout",
-      "View": "Edit"
+      "itarNumber": "iTAR-EnSci-03",
+      "technologyTitle": "Industrial Internet of Things(IIOT)",
+      "submittedOn": "25-07-2019",
+      "assessmentStatus": "1"
     },
     {
       "id": 3,
-      "QuotationNumber": "iTAR-EnSci-02",
-      "TechnologyTitle": "Mobile and Edge Computing",
-      "QuotationDate": "15-11-2019",
-      "Status": "Ignore",
-      "View": "Edit"
+      "itarNumber": "iTAR-EnSci-02",
+      "technologyTitle": "Mobile and Edge Computing",
+      "submittedOn": "15-11-2019",
+      "assessmentStatus": "3"
     },
     {
       "id": 4,
-      "QuotationNumber": "iTAR-EnSci-05",
-      "TechnologyTitle": "Data Science. As the world entered the era of big data, the need for its storage also grew",
-      "QuotationDate": "04-12-2019",
-      "Status": "Under Review",
-      "View": "Edit"
+      "itarNumber": "iTAR-EnSci-05",
+      "technologyTitle": "Data Science. As the world entered the era of big data, the need for its storage also grew",
+      "submittedOn": "04-12-2019",
+      "assessmentStatus": "4"
     },
     {
       "id": 5,
-      "QuotationNumber": "iTAR-EnSci-04",
-      "TechnologyTitle": "Robotics",
-      "QuotationDate": "05-01-2020",
-      "Status": "Acquire",
-      "View": "Edit"
+      "itarNumber": "iTAR-EnSci-04",
+      "technologyTitle": "Robotics",
+      "submittedOn": "05-01-2020",
+      "assessmentStatus": "5"
     },
     {
       "id": 6,
-      "QuotationNumber": "iTAR-EnSci-06",
-      "TechnologyTitle": "Surface Computing",
-      "QuotationDate": "01-06-2019",
-      "Status": "Pursue / R & D",
-      "View": "Edit"
+      "itarNumber": "iTAR-EnSci-06",
+      "technologyTitle": "Surface Computing",
+      "submittedOn": "01-06-2019",
+      "assessmentStatus": "6"
     },
     {
       "id": 7,
-      "QuotationNumber": "iTAR-EnSci-07",
-      "TechnologyTitle": "Home Computing",
-      "QuotationDate": "21-09-2019",
-      "Status": "Pursue / R & D",
-      "View": "Edit"
+      "itarNumber": "iTAR-EnSci-07",
+      "technologyTitle": "Home Computing",
+      "submittedOn": "21-09-2019",
+      "assessmentStatus": "2"
     },
     {
       "id": 8,
-      "QuotationNumber": "iTAR-EnSci-08",
-      "TechnologyTitle": "Home8 Computing",
-      "QuotationDate": "02-09-2017",
-      "Status": "Pursue / R & D",
-      "View": "Edit"
-    },
-    {
-      "id": 9,
-      "QuotationNumber": "iTAR-EnSci-09",
-      "TechnologyTitle": "Home8 Computing",
-      "QuotationDate": "02-09-2017",
-      "Status": "Pursue / R & D",
-      "View": "Edit"
+      "itarNumber": "iTAR-EnSci-08",
+      "technologyTitle": "Home8 Computing",
+      "submittedOn": "02-09-2017",
+      "assessmentStatus": "2"
     }
   ],
   "profile": {
